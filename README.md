@@ -5,7 +5,7 @@ Este repositório foi desenvolvido como desafio do curso da DIO,com foco na real
 ### Planejamento  
 Inicialmente, foram criados **mapas mentais** para mapear as funcionalidades principais a serem testadas, como adicionar itens ao carrinho, visualizar e remover produtos. Esses mapas mentais estão disponíveis em [MindMaps](_planejamento_testes/MindMaps). 
 
-Além disso, as **User Stories** foram elaboradas no Jira para guiar o desenvolvimento dos testes, e estão compiladas em um arquivo PDF em [UsersStoriesJira.pdf](planejamento_testes/UsersStoriesJira.pdf) 
+Além disso, as **User Stories** foram elaboradas no Jira para guiar o desenvolvimento dos testes, e estão compiladas em um arquivo PDF em [UsersStoriesJira.pdf](_planejamento_testes/UsersStoriesJira.pdf) 
 
 Outros materiais de planejamento incluem:
 - Fludo de trabalho [_fluxo_trabalho.png](_planejamento_testes/_fluxo_trabalho.png)
@@ -27,11 +27,11 @@ Com base no planejamento, foram criados casos de teste detalhados:
  [Remover_item.md](CasosDeTeste/[Remover_item.md).
 
 ### Testes e Resultados  
-Durante a execução dos testes no Jira, foram capturadas evidências em imagens que demonstram tanto os casos de sucesso quanto os que apresentaram bugs, disponíveis na pasta [Evidências](Testes_E_Resultados). 
+Durante a execução dos testes no Jira, foram capturadas evidências em imagens que demonstram tanto os casos de sucesso quanto os que apresentaram bugs, disponíveis na pasta [teste.png](Evidências/teste.png) e [teste_com_bug.png](Evidências/teste_com_bug.png)
 
 Além disso, foram incluídos:  
-- Gráficos de cobertura e status dos testes:[grafico_dos_testes.pdf](Testes_E_Resultados/grafico_dos_testes.pdf).
-- Resumo das observações e resultados:[ResultadosTestes.md](Testes_E_Resultados/ResultadosTestes.md).
+- Gráficos de cobertura e status dos testes:[grafico_dos_testes.pdf](Evidências/grafico_dos_testes.pdf).
+- Resumo das observações e resultados:[ResultadosTestes.md](Evidências/ResultadosTestes.md).
 
 
 ## Contribuição
