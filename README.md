@@ -27,11 +27,11 @@ Com base no planejamento, foram criados casos de teste detalhados:
  [Remover_item.md](CasosDeTeste/[Remover_item.md).
 
 ### Testes e Resultados  
-Durante a execução dos testes no Jira, foram capturadas evidências em imagens que demonstram tanto os casos de sucesso quanto os que apresentaram bugs, disponíveis na pasta ["teste.png](Testes e Resultados/Evidências/teste.png") e ["teste_com_bug.png](Testes e Resultados/Evidências/teste_com_bug.png")
+Durante a execução dos testes no Jira, foram capturadas evidências em imagens que estão disponíveis na pasta [Evidências](Testes%20e%20Resultados/Evidências) que demonstram tanto os casos de sucesso no arquivo `teste.png`, quanto os que apresentaram bugs no arquivo `teste_com_bug.png`.
 
 Além disso, foram incluídos:  
-- Gráficos de cobertura e status dos testes:["grafico_dos_testes.pdf](Testes e Resultados/Evidências/grafico_dos_testes.pdf").
-- Resumo das observações e resultados:["ResultadosTestes.md](Testes e Resultados/Evidências/ResultadosTestes.md").
+- Gráficos de cobertura e status dos testes, disponíveis na pasta [Evidências](Testes%20e%20Resultados/Evidências) com o arquivo `grafico_dos_testes.pdf`.  
+- Resumo das observações e resultados, também na pasta [Evidências](Testes%20e%20Resultados/Evidências) no arquivo `ResultadosTestes.md`.
 
 
 ## Contribuição
