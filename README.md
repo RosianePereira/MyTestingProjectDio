@@ -30,8 +30,8 @@ Com base no planejamento, foram criados casos de teste detalhados:
 Durante a execução dos testes no Jira, foram capturadas evidências em imagens que estão disponíveis na pasta [Evidências](Testes%20e%20Resultados/Evidências) que demonstram tanto os casos de sucesso no arquivo `teste.png`, quanto os que apresentaram bugs no arquivo `teste_com_bug.png`.
 
 Além disso, foram incluídos:  
-- Gráficos de cobertura e status dos testes, disponíveis na pasta [Testes e Resultados](Testes%20e%20Resultados/Evidências) com o arquivo `grafico_dos_testes.pdf`.  
-- Resumo das observações e resultados, também na pasta [Testes e Resultados](Testes%20e%20Resultados/Evidências) no arquivo `ResultadosTestes.md`.
+- Gráficos de cobertura e status dos testes, disponíveis na pasta [Testes e Resultados](Testes%20e%20Resultados) com o arquivo `grafico_dos_testes.pdf`.  
+- Resumo das observações e resultados, também na pasta [Testes e Resultados](Testes%20e%20Resultados) no arquivo `ResultadosTestes.md`.
 
 
 ## Contribuição
